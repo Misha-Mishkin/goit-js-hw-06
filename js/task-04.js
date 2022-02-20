@@ -16,3 +16,4 @@ const refs = {
 
 refs.decrementBtn.addEventListener('click', onButtonDecrClick);
 refs.incrementBtn.addEventListener('click', onButtonIncrClick);
+
